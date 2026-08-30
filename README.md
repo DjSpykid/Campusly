@@ -151,7 +151,7 @@ Paystack test card: `4084 0840 8408 4081`, any future expiry, CVV `408`, PIN `00
 
 ## Team
 
-Built for **K-TECH FEST 3.0** by **Opanuga Aladetomiwa** (product, engineering, design) and **Daniel** (research, business strategy, pitch).
+Built for **K-TECH FEST 3.0** by **Opanuga Aladetomiwa** (product, engineering, design) and **Opeyemi Ayejuro** (research, business strategy, pitch).
 
 ## Roadmap
 

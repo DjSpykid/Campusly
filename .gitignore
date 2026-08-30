@@ -42,7 +42,6 @@ next-env.d.ts
 design/out/*.html
 
 # local-only planning material
-CLAUDE.md
 docs/
 design/
 
